@@ -1,16 +1,19 @@
 # Webset 
 
+![1000004513](https://github.com/user-attachments/assets/aff1af7a-bd24-4186-931b-d47e479f7e6f)
+
+How to use
 ||||
 |-|-|-|
 |Load|UI|Feed|
 
-*Load* 
+*Load* by ? seconds
 - Measures Page Loading speed
 
-*UI* 
+*UI* by % percent
 - Dynamic measure to UI, UX and Accessibility `aria`
 
-*Feed* 
+*Feed* by ? seconds
 - How long you hold and how fast response (typically 630ms in hold position which indicate 30ms response and 600 for the hold measure)
 
 Webset is a lightweight, live webpage speed tool that gives you a smooth, real-time view of your website’s performance. Unlike Lighthouse, it focuses purely on speed experience, not audits or optimization metrics.
