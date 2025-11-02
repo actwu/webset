@@ -29,23 +29,33 @@ Installation / Usage
 
 Add the following snippet to your web
 
+Add this to your `<head>` before using these tools
 ```html
-<head>
   <link rel="preconnect" href="https://actwu.github.io">
-  <link rel="preload" href="https://actwu.github.io/webset/test.js" as="script">
-  <script src="https://actwu.github.io/webset/test.js"></script>
-</head>
+  ```
+
+```html
+<link rel="preload" href="https://actwu.github.io/webset/test.js" as="script">
+<script src="https://actwu.github.io/webset/test.js"></script>
 ```
 
 genSet Tool 
 - can make Accessibility 100% by adding what is need
   
 ```html
-  <link rel="preconnect" href="https://actwu.github.io">
   <link rel="preload" href="https://actwu.github.io/webset/genset.js" as="script">
   <script src="https://actwu.github.io/webset/genset.js"></script>
 ```
 
+seoSet Tool 
+- can make Seo 100% by adding what is need
+
+```html
+  <link rel="preload" href="https://actwu.github.io/webset/seoset.js" as="script">
+  <script src="https://actwu.github.io/webset/seoset.js"></script>
+```
+
+**Add the 
 ---
 
 About
