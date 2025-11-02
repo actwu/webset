@@ -53,8 +53,12 @@ seoSet Tool
 html sample 
 ```html
   <title>Apple</title>
-  <decs content="appll"></decs>
+  <decs by="Actwu"
+ content="appll"></decs>
 ```
+
+- `by=` tells who made the site
+- `content=` tell the decs content 
 
 Usage
 ```html
