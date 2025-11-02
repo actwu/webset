@@ -50,6 +50,13 @@ genSet Tool
 seoSet Tool 
 - can make Seo 100% by adding what is need
 
+html sample 
+```html
+  <title>Apple</title>
+  <decs content="appll"></decs>
+```
+
+Usage
 ```html
   <link rel="preload" href="https://actwu.github.io/webset/seoset.js" as="script">
   <script src="https://actwu.github.io/webset/seoset.js"></script>
