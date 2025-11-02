@@ -37,6 +37,15 @@ Add the following snippet to your web
 </head>
 ```
 
+genSet Tool 
+- can make Accessibility 100% by adding what is need
+  
+```html
+  <link rel="preconnect" href="https://actwu.github.io">
+  <link rel="preload" href="https://actwu.github.io/webset/genset.js" as="script">
+  <script src="https://actwu.github.io/webset/genset.js"></script>
+```
+
 ---
 
 About
