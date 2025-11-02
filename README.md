@@ -66,7 +66,7 @@ Usage
   <script src="https://actwu.github.io/webset/seoset.js"></script>
 ```
 
-**Add the 
+
 ---
 
 About
